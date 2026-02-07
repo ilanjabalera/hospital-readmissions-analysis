@@ -18,4 +18,4 @@ The goal is to explore healthcare data and apply machine learning techniques rel
 To explore hospital readmission patterns and build a predictive foundation for healthcare analytics.
 
 ## Notes
-The dataset is not included in this repository due to size and data-handling best practices.
+The dataset is not included in this repository due to size and data-handling best practices and neatness.
